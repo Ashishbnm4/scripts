@@ -2,7 +2,7 @@
 
 <<info
 This shell script will take periodic backups
-
+added 2 line 
 eg. 
 ./backups.sh <source> <dest>
 
